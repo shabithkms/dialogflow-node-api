@@ -1,11 +1,10 @@
 <h1>Dialogflow API Node Js</h1>
 <p>
-  <code>
-    Data to test the API : 
+ Submit this data to http://localhost:PORT/dialogflow to test the API : 
+ 
       {
         "languageCode": "en",
-        "queryText": "what is the time now",
-        "sessionId": "shabithkms"
+        "queryText": "Hello",
+        "sessionId": "session123"
       }
-  </code>
 </p>
